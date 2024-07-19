@@ -3,15 +3,19 @@
 Welcome to my GitHub repository for the Hotel Management Website Front-End Development! This project showcases the work done during my internship, highlighting the skills and experience gained in front-end development.
 
 🚀 Introduction
+
 Date: 25th May 2024
 In this 4-week project, you'll learn to create a dynamic and visually appealing hotel website using front-end technologies: HTML, CSS, and JavaScript. The objective is to design an engaging user interface that provides visitors with a seamless experience to explore hotel information, view room details, check availability, and make reservations.
+
 📅 Week 1
+
 Date: 28th May 2024
 Event: Orientation Meeting: Introduction to Front-End Development and Overview of the Internship Tasks
 
 During the orientation meeting, I tackled questions regarding front-end development to understand its base. The agenda for the first week included tasks from setting up the development environment to creating a basic hotel management website structure.
 
 Day-by-Day Progress
+
 Day 1:
 
 Learned about the project flow and industrial work and management, gaining insight into how projects are organized and executed in a professional setting.
@@ -27,7 +31,9 @@ Used Figma for creating the project blueprint, which provided a visual guide and
 Day 5:
 
 Created a UI in Figma and sent it for approval, ensuring that the design aligns with the project requirements and client expectations​.
+
 📅 Week 2
+
 Date: 4th June 2024
 Event: Online Session: Enhancing the Website with Additional Features
 
@@ -71,7 +77,9 @@ Created and designed the services page, incorporating the necessary elements to 
 Day 5:
 
 Made final adjustments to enhance functionality on the services page, ensuring that all elements work seamlessly and provide a positive user experience​.
+
 📅 Week 4
+
 Date: 21st June 2024
 Event: Final Touches and Project Presentation
 
@@ -93,6 +101,7 @@ Created and designed the About Us page, incorporating all necessary elements to 
 Day 5:
 
 Made final adjustments to enhance functionality and usability on the About Us page, ensuring that all elements work seamlessly and provide a positive user experience​.
+
 🤝 Connect with Me
 Email: darshitkachhadiya19@gmail.com,22aiml016@charusat.edu.in
 
