@@ -10,6 +10,7 @@ In this 4-week project, you'll learn to create a dynamic and visually appealing 
 📅 Week 1
 
 Date: 28th May 2024
+
 Event: Orientation Meeting: Introduction to Front-End Development and Overview of the Internship Tasks
 
 During the orientation meeting, I tackled questions regarding front-end development to understand its base. The agenda for the first week included tasks from setting up the development environment to creating a basic hotel management website structure.
@@ -39,6 +40,7 @@ Created a UI in Figma and sent it for approval, ensuring that the design aligns 
 📅 Week 2
 
 Date: 4th June 2024
+
 Event: Online Session: Enhancing the Website with Additional Features
 
 This week focused on adding more features to the hotel management website, such as forms and interactive elements.
@@ -67,6 +69,7 @@ Created the footer of the site, adding the final touches to ensure a complete an
 
 📅 Week 3
 Date: 12th June 2024
+
 Event: Online Session: Advanced Features and Optimization
 
 This week focused on adding advanced features and optimizing the website for better performance and user experience.
@@ -96,6 +99,7 @@ Made final adjustments to enhance functionality on the services page, ensuring t
 📅 Week 4
 
 Date: 21st June 2024
+
 Event: Final Touches and Project Presentation
 
 This week focused on finalizing the project, adding documentation, and preparing for the project presentation.
