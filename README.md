@@ -5,6 +5,7 @@ Welcome to my GitHub repository for the Hotel Management Website Front-End Devel
 🚀 Introduction
 
 Date: 25th May 2024
+
 In this 4-week project, you'll learn to create a dynamic and visually appealing hotel website using front-end technologies: HTML, CSS, and JavaScript. The objective is to design an engaging user interface that provides visitors with a seamless experience to explore hotel information, view room details, check availability, and make reservations.
 
 📅 Week 1
